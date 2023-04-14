@@ -6,4 +6,4 @@ pandas
 numpy
 joblib
 altair
-track_utils
+pip_utils

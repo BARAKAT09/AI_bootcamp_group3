@@ -10,7 +10,7 @@ from datetime import datetime
 
 # Utils
 import joblib 
-pipe_lr = joblib.load(open("Twitter_Sentiment_Analysis_Web_App.pkl"))
+pipe_lr = joblib.load(open("Twitter_Sentiment_Analysis_Web_App.pkl",'rb'))
 
 # Fxn
 def predict_emotions(docx):

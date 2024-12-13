@@ -69,7 +69,7 @@ def main():
 
 	else:
 		st.subheader("About")
-		st.write("My name is seyi ogunmusire ")
+		st.write("My name is Seyi Ogunmusire ")
 
 
 
